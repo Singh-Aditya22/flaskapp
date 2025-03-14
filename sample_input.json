@@ -1,0 +1,9 @@
+{
+    "page": "Article_en.wikipedia.org_desktop_agent",
+    "start_date": "2016-01-01",
+    "end_date": "2016-01-30",
+    "campaign": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "language": "en",
+    "access_type": "desktop",
+    "agent": "all-agents"
+}
